@@ -1,0 +1,10 @@
+.img-size {
+  height: auto;
+  max-height: 50em;
+  width: auto;
+  max-width: 30em;
+}
+.img {
+  height: 20em;
+  width: 40em;
+}
